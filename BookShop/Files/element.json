@@ -1,0 +1,72 @@
+[
+ {
+     "element": "1",
+     "name": "Penguin Classics Penguin's Poems for Love",
+     "rating": 4,
+     "reference": "00110",
+     "condition": "new",
+     "color_1": "#fff",
+     "color_2": "#E84C3D",
+     "new_price": "8.00",
+     "old_price": "10.00",
+     "sale": "-20%",
+     "date": "May 09. 2017"
+ },
+ {
+     "element": "2",
+     "name": "The Hardy Boys Starter Set",
+     "rating": 4,
+     "reference": "00116",
+     "condition": "new",
+     "color_1": "#E84C3D",
+     "color_2": "#5D9CEC",
+     "price": "16.00",
+     "date": "January 16. 2017"
+ },
+ {
+     "element": "3",
+     "name": "Nora Roberts Boonsboro Trilogy Boxed Sett",
+     "rating": 4,
+     "reference": "00108",
+     "condition": "new",
+     "color_1": "#f5f5dc",
+     "color_2": "#E84C3D",
+     "new_price": "16.15",
+     "old_price": "19.00",
+     "sale": "-15%",
+     "date": "February 06. 2017"
+ },
+ {
+     "element": "4",
+     "name": "Mistborn Trilogy by Brandon Sanderson",
+     "rating": 4,
+     "reference": "00106",
+     "condition": "new",
+     "color_1": "#AAB2BD",
+     "color_2": "#5D9CEC",
+     "price": "20.00",
+     "date": "July 21. 2017"
+ },
+ {
+     "element": "5",
+     "name": "The Hunger Games Trilogy - 3 Book Set",
+     "rating": 3,
+     "reference": "00118",
+     "condition": "new",
+     "color_1": "#E84C3D",
+     "color_2": "#F1C40F",
+     "price": "21.00",
+     "date": "August 29. 2017"
+ },
+ {
+     "element": "6",
+     "name": "Nancy Drew Starter Set",
+     "rating": 3,
+     "reference": "00107",
+     "condition": "new",
+     "color_1": "#A0D468",
+     "color_2": "#F1C40F",
+     "price": "25.00",
+     "date": "September 30. 2017"
+ }
+]
